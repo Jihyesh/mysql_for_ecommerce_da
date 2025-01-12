@@ -7,5 +7,5 @@
 	SUM(price_usd - cogs_usd) AS total_margin
     
  FROM orders
- WHERE created_at < '2023-01-04' -- date of request
+ WHERE created_at < '2013-01-04' -- date of request
  GROUP BY YEAR(created_at), MONTH(created_at)
