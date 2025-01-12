@@ -1,6 +1,7 @@
 ## E-commerce의 제품별 매출, 주문수, 마진 특성을 살펴봤습니다. 데이터 추출은 MySQL을 사용했고, 시각화 툴은 Excel의 차트를 사용하여 인사이트를 도출했습니다.
 (Eng) This analysis explored the sales, order volume, and margin characteristics by product in e-commerce. Data was extracted using MySQL, and insights were derived using Microsoft Excel charts.
 
+</br></br></br>
 
 ### 전체 구매량은 1번 제품이 가장 많은 반면, 세션당 평균 구매액은 2번 제품이 가장 큰 것을 알 수 있다.
 (Eng) The total purchase volume is highest for Product 1, whereas the average purchase amount per session is largest for Product 2.
