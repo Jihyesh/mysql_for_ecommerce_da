@@ -1,4 +1,5 @@
-## 
+## E-commerce의 제품별 매출, 주문수, 마진 특성을 살펴봤습니다. 데이터 추출은 MySQL을 사용했고, 시각화 툴은 Excel의 차트를 사용하여 인사이트를 도출했습니다.
+(Eng) This analysis explored the sales, order volume, and margin characteristics by product in e-commerce. Data was extracted using MySQL, and insights were derived using Microsoft Excel charts.
 
 
 ### 전체 구매량은 1번 제품이 가장 많은 반면, 세션당 평균 구매액은 2번 제품이 가장 큰 것을 알 수 있다.
@@ -51,7 +52,7 @@ GROUP BY 1;
 <br/><br/>
 
 ### 2023년 1월에 제품 2를 새로 출시했고, 트렌드를 살펴보면 구매전환율이 증가한 것을 확인할 수 있다. 구매전환율이 증가하면 마진율 상승을 기대할 수 있다.
-(Eng) In January 2023, this e-commerce business launched Product 2, and trends show an increase in the conversion rate. An increase in the conversion rate is expected to lead to higher profit margins.
+(Eng) In January 2023, this e-commerce business launched Product 2, and trends show an increase in the conversion rate. An increase in the conversion rate is expected to lead to higher profit rate.
 <p align="center">
 <a href="url"><img src="https://github.com/user-attachments/assets/5f7745ab-118f-4c2e-95a9-cda9cb84e6db" height="350" width="700" ></a> 
 </p>
