@@ -30,7 +30,6 @@
 <a href="url"><img src="https://github.com/user-attachments/assets/f587c2ef-9230-45b1-b7ae-c776d9cefeb9" height="350" width="700" ></a> 
 </p>
 	
- <br/>
 [MySQL code](https://github.com/Jihyesh/mysql_for_ecommerce_da/blob/main/product_analysis/73%20product-level%20sales%20analysis.sql)
 
 ```
@@ -58,7 +57,6 @@ ORDER BY 1, 2
 <a href="url"><img src="https://github.com/user-attachments/assets/5f7745ab-118f-4c2e-95a9-cda9cb84e6db" height="350" width="700" ></a> 
 </p>
 
-<br/>
 [MySQL code](https://github.com/Jihyesh/mysql_for_ecommerce_da/blob/main/product_analysis/75%20analyzing%20product%20launches.sql)
 
 ```
