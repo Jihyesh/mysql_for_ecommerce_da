@@ -5,6 +5,7 @@
 <p align="center">
 <a href="url"><img src="https://github.com/user-attachments/assets/bd0ec04f-e54c-4705-a8c9-712e92ae4d00" height="350" width="700" ></a> 
 </p>
+
 [MySQL code](https://github.com/Jihyesh/mysql_for_ecommerce_da/blob/main/product_analysis/72%20analyzing%20product%20sales%20and%20product%20launches.sql)
 
 ```
@@ -25,8 +26,11 @@
 
 ### 2023년 1월 이전의 트렌드를 살펴보면, 플랫폼의 매출과 주문, 그에 따른 이익도 증가하고 있다. 그러나 마진율이 점점 초반 대비 감소한 것을 볼 수 있다. 마진율이 감소한 이유로는 트래픽이 증가함에 따라 플랫폼을 운영하는 비용이 증가하는 반면에 구매로 전환되는 비율이 상대적으로 덜 증가하기 때문이라고 추측할 수 있다.
 
+<p align="center">
 <a href="url"><img src="https://github.com/user-attachments/assets/f587c2ef-9230-45b1-b7ae-c776d9cefeb9" height="350" width="700" ></a> 
-<br/>
+</p>
+	
+ <br/>
 [MySQL code](https://github.com/Jihyesh/mysql_for_ecommerce_da/blob/main/product_analysis/73%20product-level%20sales%20analysis.sql)
 
 ```
@@ -50,7 +54,10 @@ ORDER BY 1, 2
 
 ### 2023년 1월에 제품 2를 새로 출시했고, 트렌드를 살펴보면 구매전환율이 증가한 것을 확인할 수 있다. 구매전환율이 증가하면 마진율 상승을 기대할 수 있다.
 
+<p align="center">
 <a href="url"><img src="https://github.com/user-attachments/assets/5f7745ab-118f-4c2e-95a9-cda9cb84e6db" height="350" width="700" ></a> 
+</p>
+
 <br/>
 [MySQL code](https://github.com/Jihyesh/mysql_for_ecommerce_da/blob/main/product_analysis/75%20analyzing%20product%20launches.sql)
 
